@@ -12,7 +12,7 @@ escala_vect: !w=ku
 %i2 ! ecalar k
 %i3 ! direccion mem del vector w
 
-vector_sobre_escalar !w=u/k
+vector_sobre_escalar: !w=u/k
 %i0 !# de elementos 
 %i1 !# de elementos u
 %i2 ! ecalar k
